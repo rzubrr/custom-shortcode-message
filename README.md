@@ -1,4 +1,5 @@
 # Custom Shortcode Message
+WordPress plugin that saves and displays a custom message via shortcode, with AJAX support for dynamic updates.
 
 ## Installing
 * Download the **[latest version](https://github.com/rzubrr/custom-shortcode-message/releases)** of the plugin as a .zip file.
