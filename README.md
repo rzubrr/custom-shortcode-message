@@ -11,4 +11,4 @@
 
 * In your WordPress dashboard, click the "Custom Shortcut Message" on the side panel
 * Enter your message into an input box and click the button to confirm 
-* Use a shortcode **[custom_message]** to display your text
+* Use a shortcode **[custom_message]** to display your text on the page
